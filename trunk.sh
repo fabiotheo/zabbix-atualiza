@@ -11,4 +11,3 @@ then
     else
         echo "1"
 fi
-EOF
